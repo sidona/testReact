@@ -1,8 +1,12 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import postsReducer from '../features/posts/actions';
+import cardReducer from '../components/Card/actions';
+import addPostReducer from '../features/AddPost/actions';
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    posts: postsReducer,
+    cardCustom: cardReducer,
+    addPost: addPostReducer,
   },
 });
