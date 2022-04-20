@@ -45,3 +45,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## App
 - First page
+
+![My Image](images/firstPage.png)
