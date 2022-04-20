@@ -47,3 +47,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - First page
 
 ![My Image](images/firstPage.png)
+
+- Comments
+  ![My Image](images/comments.png)
+
+- Create post
+  ![My Image](images/createPost.png)
+
+- Create post validation
+  ![My Image](images/createPost1.png)
